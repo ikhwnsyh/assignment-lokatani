@@ -3,7 +3,7 @@
 ## About Laravel
 
 -   git clone https://github.com/ikhwnsyh/assignment-lokatani.git
--   cd vite-inertia
+-   cd assignment-lokatani
 -   composer install
 -   cp .env.example .env
 -   php artisan key:generate
